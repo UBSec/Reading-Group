@@ -4,7 +4,7 @@
 |Date|Presenter|Title|Paper|Venue|Slide|Recording|
 |:-:|:-:|-|:-:|:-:|:-:|:-:|
 |May 30| Qiqing Huang | BaseBridge: Bridging the Gap between Over-The-Air and Emulation Testing for Cellular Baseband Firmware | [PDF](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2025/2236/00/223600b101.pdf?Expires=1748620859&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjUvMjIzNi8wMC8yMjM2MDBiMTAxLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0ODYyMDg1OX19fV19&Signature=wRrhJuUiJs6OA5xRmABIE7jZkwtAuoe3zw2CpiqGCS~ZqebG5iuugEagbzB8QnTsDnoPG1wbEHriqslQdh8wkkdVTCuqqgAOjwsPnik4Nbm~ZKoHDBK8wsN2U1NE-kECfoTaMcftbVQEcjEYHx-Gyik2AqG29~-ScZUebMPHBkpppRqUa3-1znPITlICFNRP4UCSL4o~oqhhscz805K9RAB~BvxJTROxSNrW8RSmQVTFpSx96FXTX2FCDmUVUmsOhFyWJO4dt401J63yvzTk-ZzWgAUr6xG4G8S-~ZKbbxrO7UyZMK6FKdYo~e2t3GJYbF2PEE4J-NyO2VvpuiUOLg__&Key-Pair-Id=K12PMWTCQBDMDT)  | SP 2025 | | |
-|June 20| Rupam Patir | SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis | [PDF](https://arxiv.org/pdf/2505.20630) | SP 2025 | | |
+|June 20| Rupam Patir | SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis | [PDF](https://arxiv.org/pdf/2505.20630) | SP 2025 | [Google Slide](https://docs.google.com/presentation/d/1W800oMKjd2iADNKn7xQR7ZXq7mfUkylSClk627xitGg/edit?usp=sharing) | |
 |July 4| Keyan Guo | | | | | | 
 |July 18| Xingyu Wang | | | | | | 
 
